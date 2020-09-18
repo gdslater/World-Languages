@@ -41,7 +41,7 @@ for i in range(1, len(rows)):
 			### Comment this out for empty list instead of 'None'
 			if values[i] == ['']:
 				values[i] = 'None'
-		###
+			###
 	df = df.append(pd.Series(values, index=headers), ignore_index=True)
 
 ## Data Frame Print Options ##
