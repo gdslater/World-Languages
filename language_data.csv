@@ -1,231 +1,208 @@
 Country,Official language,Regional language,Minority language,National language,Widely spoken
-Abkhazia,"['Abkhaz', 'Russian']",None,['Georgian'],['Abkhaz'],None
-Afghanistan,"['Pashto', 'Dari']","['Uzbek', 'Turkmen', 'Pashai', 'Nuristani', 'Balochi', 'Pamiri']",None,None,None
-Albania,['Albanian'],None,"['Greek', 'Macedonian', 'Aromanian']",None,['Italian']
-Algeria,"['Arabic', 'Tamazight']",None,None,"['Arabic', 'Tamazight']",['French']
-Andorra,['Catalan'],None,"['Spanish', 'French', 'Portuguese']",None,None
-Angola,['Portuguese'],None,None,"['Kimbundu', 'Umbundu', 'Kikongo', 'Chokwe', 'Kwanyama', 'Ganguela']",None
-Antigua and Barbuda,['English (de facto)'],None,None,None,None
-Argentina,['Spanish (de facto)'],"['Spanish (in Corrientes and Chaco)', 'Guaraní (in Corrientes)', 'Kom (in Chaco)', 'Moquoit (in Chaco)', 'Wichi (in Chaco)']",None,None,None
-Armenia,['Armenian'],None,None,['Armenian (state language)'],None
-Artsakh,['Armenian'],None,None,None,None
-Australia,['English (de facto)'],None,None,None,None
-Austria,['German'],"['Croatian (parts of Burgenland)', 'Hungarian (parts of Burgenland)', 'Slovene (parts of Carinthia)']","['Slovene', 'Czech', 'Hungarian', 'Slovak', 'Romani', 'Serbian']",['German (state language)'],None
-Azerbaijan,['Azerbaijani'],None,None,['Azerbaijani (state language)'],None
-Azerbaijan,['Azerbaijani'],None,None,['Azerbaijani (state language)'],None
-Bahamas,['English'],None,None,None,None
-Bahrain,['Arabic'],None,None,None,None
-Bangladesh,['Bengali'],None,None,['Bengali'],None
-Barbados,['English'],None,None,None,None
-Belarus,"['Belarusian', 'Russian']",None,None,None,None
-Belgium,"['Dutch, French, German']","['Dutch (Flanders, Brussels)', 'French (Brussels, Wallonia)', 'German (German-speaking community)']",None,None,None
-Belize,['English'],['Spanish (border with Mexico and Guatemala)'],None,None,['Kriol (lingua franca)']
-Benin,['French'],None,None,None,None
-Bhutan,['Dzongkha'],None,None,None,None
-Bolivia,"['Castilian', '(37 other languages)']",None,None,None,None
-Bosnia and Herzegovina,"['Bosnian (de facto)', 'Croatian (de facto)', 'Serbian (de facto)']",None,None,None,None
-Botswana,"['English', 'Tswana']",None,None,['Tswana'],None
-Brazil,['Portuguese'],"['German (in Pomerode)', 'East Pomeranian (in Pancas, Santa Maria de Jetibá, Domingos Martins, Itarana, Laranja da Terra, Vila Pavão and Canguçu)', 'Riograndenser Hunsrückisch (in Antônio Carlos, Santa Catarina, and in Santa Maria do Herval, Rio Grande do Sul)', 'Talian (in Bento Gonçalves, Caxias do Sul, Flores da Cunha Nova Roma do Sul and Serafina Corréa)', 'Nheengatu, Baniwa, Tucano (in Sào Gabriel de Cachoeira, Amazonas)', 'Guaraní (in Tacuru, Mato Grosso do Sul)']",None,['Portuguese'],None
-Brunei,"['Malay', 'English']",None,None,None,None
-Bulgaria,['Bulgarian'],None,None,None,None
-Burkina Faso,['French'],None,None,"['Fula', 'Jula', 'More']",None
-Burundi,"['French', 'Kirundi', 'English']",None,None,['Kirundi'],['Swahili']
-Burundi,"['French', 'Kirundi', 'English']",None,None,['Kirundi'],['Swahili']
-Cambodia,['Khmer'],None,None,None,None
-Cameroon,"['English', 'French']",None,None,None,None
-Canada,"['English (Federal)', 'French (Federal)']","['Chipewyan (Northwest Territories)', 'Cree (Northwest Territories)', ""Gwich'in (Northwest Territories)"", 'Inuinnaqtun (Northwest Territories and Nunavut)', 'Inuktitut (Northwest Territories and Nunavut)', 'Inuvialuktun (Northwest Territories)', 'North Slavey (Northwest Territories)', 'South Slavey (Northwest Territories)', 'Tłı̨chǫ (Northwest Territories)']","['Chipewyan', 'Cree', ""Gwich'in"", 'Inuinnaqtun', 'Inuktitut', 'Inuvialuktun', 'North Slavey', 'South Slavey', 'Tłı̨chǫ']",None,None
-Cape Verde,['Portuguese'],None,None,['Cape Verdean Creole'],None
-Central African Republic,['French'],None,['Sango'],None,None
-Chad,"['Arabic', 'French']",None,None,None,None
-Chile,['Spanish (de facto)'],['(Languages of ethnic groups are official in their territories)'],None,None,None
-China,['Mandarin'],"['Cantonese (de facto in \xa0Hong Kong and \xa0Macau)', '(46 other languages)']",None,None,None
-Colombia,['Spanish'],['(Languages of ethnic groups are official in their territories)'],None,None,None
-Comoros,"['Arabic', 'Comorian', 'French']",None,None,None,None
-Democratic Republic of the Congo,['French'],None,"['Lingala', 'Kikongo']","['Swahili', 'Tshiluba']",None
-Republic of the Congo,['French'],None,"['Lingala', 'Munukutuba']",None,None
-Costa Rica,['Spanish'],None,None,None,None
-Croatia,['Croatian'],"['Serbian', 'Hungarian', 'Czech', 'Slovak', 'Pannonian Rusyn', 'Istro-Romanian (protected[clarification needed])']",None,"['Italian (Istria County)', 'Romani (non-territorial)', 'Slovene (non-territorial)']",None
-Cuba,['Spanish'],None,None,None,None
-Cyprus,"['Greek', 'Turkish']",None,None,"['Armenian', 'Cypriot Arabic']",['English']
-Czech Republic,"['Czech', 'Slovak']",None,None,"['Belarusian', 'Bulgarian', 'Croatian', 'German', 'Greek', 'Hungarian', 'Polish', 'Romani', 'Russian', 'Rusyn', 'Serbian', 'Ukrainian', 'Vietnamese']",None
-Czech Republic,"['Czech', 'Slovak']",None,None,"['Belarusian', 'Bulgarian', 'Croatian', 'German', 'Greek', 'Hungarian', 'Polish', 'Romani', 'Russian', 'Rusyn', 'Serbian', 'Ukrainian', 'Vietnamese']",None
-Denmark,['Danish'],"['Faroese (in the Faroe Islands)', 'Kalaallisut (in Greenland)']",['German (in Southern Jutland)'],None,None
-Djibouti,"['Arabic', 'French']",None,None,None,None
-Dominica,['English'],None,None,None,None
-Dominican Republic,['Spanish'],None,None,None,None
-Dominican Republic,['Spanish'],None,None,None,None
-East Timor,"['Portuguese', 'Tetum']",None,None,None,None
-Ecuador,"['Spanish', 'Quechua (official language of intercultural relation)']",None,"['Kichwa (official minority language)', 'Shuar (official minority language)']",None,None
-Egypt,['Arabic'],None,['Coptic'],['Egyptian Language'],['Egyptian Arabic']
-El Salvador,['Spanish'],None,None,None,None
-Equatorial Guinea,"['French', 'Portuguese', 'Spanish']",None,None,None,None
-Eritrea,['Tigrinya'],None,None,None,"['Arabic', 'Italian']"
-Estonia,['Estonian'],None,None,None,None
-Eswatini,"['English', 'Swazi']",None,None,None,None
-Ethiopia,['Amharic'],None,None,None,"['Oromo', 'Somali', 'Tigrinya', 'Afar', 'Sidamo', 'Kunama', 'Benshangul', 'Gumuz', 'English', 'Harari']"
-Ethiopia,['Amharic'],None,None,None,"['Oromo', 'Somali', 'Tigrinya', 'Afar', 'Sidamo', 'Kunama', 'Benshangul', 'Gumuz', 'English', 'Harari']"
-Fiji,"['English', 'Fijian', 'Fiji Hindi']",None,None,None,None
-Finland,"['Finnish', 'Swedish']",None,"['Sami (in Enontekiö, Inari, Sodankylä, Utsjoki)']","['Finnish', 'Swedish']",None
-France,['French'],None,None,None,None
-France,['French'],None,None,None,None
-Gabon,['French'],None,None,None,None
-Gambia,['English'],None,None,None,None
-Georgia,['Georgian'],None,None,None,None
-Germany,['German'],"['Danish (in Schleswig-Holstein)', 'Lower Sorbian (in Brandenburg)', 'North Frisian (in Schleswig-Holstein)', 'Saterland Frisian (in Lower Saxony)', 'Upper Sorbian (in Saxony)', 'German Sign Language', 'Low German']","['Danish', 'Lower Sorbian', 'North Frisian', 'Romani', 'Upper Sorbian']",None,None
-Ghana,['English'],"['Fante', 'Asante Twi', 'Akuapem Twi', 'Adangme (in Greater Accra)', 'Dagaare (in the Upper West Region)', 'Dagbani (in the Northern Region)', 'Ewe (in the Volta Region)', 'Ga (in the Greater Accra)', 'Gonja (in the Northern Region)', 'Kasem (in the Upper East Region)', 'Nzema (in the Western Region)']",None,None,None
-Greece,['Greek'],None,None,None,None
-Grenada,['English'],None,None,None,None
-Guatemala,['Spanish'],None,None,None,None
-Guinea,['French'],None,None,None,"['Fula', 'Maninka', 'Susu']"
-Guinea-Bissau,['Portuguese'],None,None,None,None
-Guyana,['English'],None,None,None,['Guyanese Creole']
-Guyana,['English'],None,None,None,['Guyanese Creole']
-Haiti,"['French', 'Haitian Creole']",None,None,None,None
-Honduras,['Spanish'],"['Garifuna (on the Caribbean Coast)', 'English (in the Bay Islands)', 'Miskito (in Eastern Honduras)']",None,None,None
-"Hong Kong, China","['Cantonese (de facto)', 'English']",None,None,None,['Traditional Chinese (written)']
-Hungary,['Hungarian'],None,"['Croatian', 'German', 'Romanian', 'Serbian', 'Slovak', 'Slovene']",None,None
-Hungary,['Hungarian'],None,"['Croatian', 'German', 'Romanian', 'Serbian', 'Slovak', 'Slovene']",None,None
-Iceland,"['Icelandic', 'Icelandic Sign Language']",None,None,None,None
-India,"['Hindi', 'English']",['(32 languages)'],None,None,None
-Indonesia,['Indonesian'],None,None,None,"['Indonesian sign languages', 'Javanese', 'Sundanese', 'Madurese', 'Batak languages', 'Chinese', 'Minang', 'Aceh', 'Balinese', 'Buginese', 'Banjarese', 'English', '(700+ other languages)']"
-Iran,['Persian'],"['Persian 53%', 'Azerbaijani and other Turkic dialects 18%', 'Kurdish 10%', 'Gilaki and Mazandarani 7%', 'Luri 6%', 'Arabic 2%', 'Balochi 2%', 'Other languages comprise 1%, and include Tati, Talysh, Georgian, Armenian, Circassian, Assyrian, etc.']",None,['Persian'],['Persian']
-Iraq,['Arabic'],"['Armenian recognized', 'Assyrian Neo-Aramaic (in Assyrian areas)', 'Iraqi Turkmen (in Turkmen areas)', 'Kurdish']",None,None,None
-Ireland,"['English', 'Irish']",None,None,['Irish'],None
-Israel,['Hebrew'],['Arabic'],None,None,"['Russian', 'English']"
-Italy,['Italian'],"['French (in Aosta Valley)', 'German (in South Tyrol)', 'Ladin (in South Tyrol)', 'Slovene (in Province of Trieste, Province of Gorizia)', 'Albanian/Arbereshe (in Sicily and Calabria)']","['Ladin', 'Slovene']",None,None
-Ivory Coast,['French'],None,None,None,None
-Ivory Coast,['French'],None,None,None,None
-Jamaica,['English'],None,None,['Jamaican Patois'],None
-Japan,['Japanese'],None,None,['Japanese'],None
-Jordan,['Arabic'],None,None,None,None
-Jordan,['Arabic'],None,None,None,None
-Kazakhstan,"['Kazakh, Russian']",None,None,['Kazakh'],None
-Kenya,['English'],None,None,['Swahili'],None
-Kiribati,['English'],None,None,['Kiribati'],None
-North Korea,['Korean'],None,None,None,None
-South Korea,"['Korean', 'Korean Sign Language']",None,None,None,None
-Kosovo,"['Albanian', 'Serbian']",['Turkish'],None,"['Albanian (nationwide)', 'Serbian (Northern Kosovo)']",None
-Kuwait,['Standard Arabic'],None,None,"['Kuwaiti Sign Language', 'Kuwaiti Arabic', 'Kuwaiti Persian']",None
-Kyrgyzstan,"['Kyrgyz, Russian']",None,None,['Kyrgyz'],None
-Kyrgyzstan,"['Kyrgyz, Russian']",None,None,['Kyrgyz'],None
-Laos,['Lao'],None,None,None,None
-Latvia,['Latvian'],None,None,None,None
+Abkhazia,"['Abkhaz', 'Russian']",[''],['Georgian'],['Abkhaz'],['']
+Afghanistan,"['Pashto', 'Dari']","['Uzbek', 'Turkmen', 'Pashai', 'Nuristani', 'Balochi', 'Pamiri']",[''],[''],['']
+Albania,['Albanian'],[''],"['Greek', 'Macedonian', 'Aromanian']",[''],['Italian']
+Algeria,"['Arabic', 'Tamazight']",[''],[''],"['Arabic', 'Tamazight']",['French']
+Andorra,['Catalan'],[''],"['Spanish', 'French', 'Portuguese']",[''],['']
+Angola,['Portuguese'],[''],[''],"['Kimbundu', 'Umbundu', 'Kikongo', 'Chokwe', 'Kwanyama', 'Ganguela']",['']
+Antigua and Barbuda,['English'],[''],[''],[''],['']
+Argentina,['Spanish'],"['Spanish (in Corrientes and Chaco)', 'Guaraní (in Corrientes)', 'Kom (in Chaco)', 'Moquoit (in Chaco)', 'Wichi (in Chaco)']",[''],[''],['']
+Armenia,['Armenian'],[''],[''],['Armenian (state language)'],['']
+Artsakh,['Armenian'],[''],[''],[''],['']
+Australia,['English'],[''],[''],[''],['']
+Austria,['German'],"['Croatian (parts of Burgenland)', 'Hungarian (parts of Burgenland)', 'Slovene (parts of Carinthia)']","['Slovene', 'Czech', 'Hungarian', 'Slovak', 'Romani', 'Serbian']",['German (state language)'],['']
+Azerbaijan,['Azerbaijani'],[''],[''],['Azerbaijani (state language)'],['']
+Bahamas,['English'],[''],[''],[''],['']
+Bahrain,['Arabic'],[''],[''],[''],['']
+Bangladesh,['Bengali'],[''],[''],['Bengali'],['']
+Barbados,['English'],[''],[''],[''],['']
+Belarus,"['Belarusian', 'Russian']",[''],[''],[''],['']
+Belgium,['Dutch French German'],"['Dutch (Flanders Brussels)', 'French (Brussels Wallonia)', 'German (German-speaking community)']",[''],[''],['']
+Belize,['English'],['Spanish (border with Mexico and Guatemala)'],[''],[''],['Kriol']
+Benin,['French'],[''],[''],[''],['']
+Bhutan,['Dzongkha'],[''],[''],[''],['']
+Bolivia,['Castilian'],[''],[''],[''],['']
+Bosnia and Herzegovina,"['Bosnian ', 'Croatian ', 'Serbian']",[''],[''],[''],['']
+Botswana,"['English', 'Tswana']",[''],[''],['Tswana'],['']
+Brazil,['Portuguese'],"['German (in Pomerode)', 'East Pomeranian (in Pancas Santa Maria de Jetibá Domingos Martins Itarana Laranja da Terra Vila Pavão and Canguçu)', 'Riograndenser Hunsrückisch (in Antônio Carlos Santa Catarina and in Santa Maria do Herval Rio Grande do Sul)', 'Talian (in Bento Gonçalves Caxias do Sul Flores da Cunha Nova Roma do Sul and Serafina Corréa)', 'Nheengatu Baniwa Tucano (in Sào Gabriel de Cachoeira Amazonas)', 'Guaraní (in Tacuru Mato Grosso do Sul)']",[''],['Portuguese'],['']
+Brunei,"['Malay', 'English']",[''],[''],[''],['']
+Bulgaria,['Bulgarian'],[''],[''],[''],['']
+Burkina Faso,['French'],[''],[''],"['Fula', 'Jula', 'More']",['']
+Burundi,"['French', 'Kirundi', 'English']",[''],[''],['Kirundi'],['Swahili']
+Cambodia,['Khmer'],[''],[''],[''],['']
+Cameroon,"['English', 'French']",[''],[''],[''],['']
+Canada,"['English ', 'French']","['Chipewyan (Northwest Territories)', 'Cree (Northwest Territories)', ""Gwich'in (Northwest Territories)"", 'Inuinnaqtun (Northwest Territories and Nunavut)', 'Inuktitut (Northwest Territories and Nunavut)', 'Inuvialuktun (Northwest Territories)', 'North Slavey (Northwest Territories)', 'South Slavey (Northwest Territories)', 'Tłı̨chǫ (Northwest Territories)']","['Chipewyan', 'Cree', ""Gwich'in"", 'Inuinnaqtun', 'Inuktitut', 'Inuvialuktun', 'North Slavey', 'South Slavey', 'Tłı̨chǫ']",[''],['']
+Cape Verde,['Portuguese'],[''],[''],['Cape Verdean Creole'],['']
+Central African Republic,['French'],[''],['Sango'],[''],['']
+Chad,"['Arabic', 'French']",[''],[''],[''],['']
+Chile,['Spanish'],['(Languages of ethnic groups are official in their territories)'],[''],[''],['']
+China,['Mandarin'],"['Cantonese (de facto in \xa0Hong Kong and \xa0Macau)', '(46 other languages)']",[''],[''],['']
+Colombia,['Spanish'],['(Languages of ethnic groups are official in their territories)'],[''],[''],['']
+Comoros,"['Arabic', 'Comorian', 'French']",[''],[''],[''],['']
+Democratic Republic of the Congo,['French'],[''],"['Lingala', 'Kikongo']","['Swahili', 'Tshiluba']",['']
+Republic of the Congo,['French'],[''],"['Lingala', 'Munukutuba']",[''],['']
+Costa Rica,['Spanish'],[''],[''],[''],['']
+Croatia,['Croatian'],"['Serbian', 'Hungarian', 'Czech', 'Slovak', 'Pannonian Rusyn', 'Istro-Romanian (protected[clarification needed])']",[''],"['Italian (Istria County)', 'Romani (non-territorial)', 'Slovene (non-territorial)']",['']
+Cuba,['Spanish'],[''],[''],[''],['']
+Cyprus,"['Greek', 'Turkish']",[''],[''],"['Armenian', 'Cypriot Arabic']",['English']
+Czech Republic,"['Czech', 'Slovak']",[''],[''],"['Belarusian', 'Bulgarian', 'Croatian', 'German', 'Greek', 'Hungarian', 'Polish', 'Romani', 'Russian', 'Rusyn', 'Serbian', 'Ukrainian', 'Vietnamese']",['']
+Denmark,['Danish'],"['Faroese (in the Faroe Islands)', 'Kalaallisut (in Greenland)']",['German (in Southern Jutland)'],[''],['']
+Djibouti,"['Arabic', 'French']",[''],[''],[''],['']
+Dominica,['English'],[''],[''],[''],['']
+Dominican Republic,['Spanish'],[''],[''],[''],['']
+East Timor,"['Portuguese', 'Tetum']",[''],[''],[''],['']
+Ecuador,"['Spanish', 'Quechua']",[''],"['Kichwa (official minority language)', 'Shuar (official minority language)']",[''],['']
+Egypt,['Arabic'],[''],['Coptic'],['Egyptian Language'],['Egyptian Arabic']
+El Salvador,['Spanish'],[''],[''],[''],['']
+Equatorial Guinea,"['French', 'Portuguese', 'Spanish']",[''],[''],[''],['']
+Eritrea,['Tigrinya'],[''],[''],[''],"['Arabic', 'Italian']"
+Estonia,['Estonian'],[''],[''],[''],['']
+Eswatini,"['English', 'Swazi']",[''],[''],[''],['']
+Ethiopia,['Amharic'],[''],[''],[''],"['Oromo', 'Somali', 'Tigrinya', 'Afar', 'Sidamo', 'Kunama', 'Benshangul', 'Gumuz', 'English', 'Harari']"
+Fiji,"['English', 'Fijian', 'Fiji Hindi']",[''],[''],[''],['']
+Finland,"['Finnish', 'Swedish']",[''],['Sami (in Enontekiö Inari Sodankylä Utsjoki)'],"['Finnish', 'Swedish']",['']
+France,['French'],[''],[''],[''],['']
+Gabon,['French'],[''],[''],[''],['']
+Gambia,['English'],[''],[''],[''],['']
+Georgia,['Georgian'],[''],[''],[''],['']
+Germany,['German'],"['Danish (in Schleswig-Holstein)', 'Lower Sorbian (in Brandenburg)', 'North Frisian (in Schleswig-Holstein)', 'Saterland Frisian (in Lower Saxony)', 'Upper Sorbian (in Saxony)', 'German Sign Language', 'Low German']","['Danish', 'Lower Sorbian', 'North Frisian', 'Romani', 'Upper Sorbian']",[''],['']
+Ghana,['English'],"['Fante', 'Asante Twi', 'Akuapem Twi', 'Adangme (in Greater Accra)', 'Dagaare (in the Upper West Region)', 'Dagbani (in the Northern Region)', 'Ewe (in the Volta Region)', 'Ga (in the Greater Accra)', 'Gonja (in the Northern Region)', 'Kasem (in the Upper East Region)', 'Nzema (in the Western Region)']",[''],[''],['']
+Greece,['Greek'],[''],[''],[''],['']
+Grenada,['English'],[''],[''],[''],['']
+Guatemala,['Spanish'],[''],[''],[''],['']
+Guinea,['French'],[''],[''],[''],"['Fula', 'Maninka', 'Susu']"
+Guinea-Bissau,['Portuguese'],[''],[''],[''],['']
+Guyana,['English'],[''],[''],[''],['Guyanese Creole']
+Haiti,"['French', 'Haitian Creole']",[''],[''],[''],['']
+Honduras,['Spanish'],"['Garifuna (on the Caribbean Coast)', 'English (in the Bay Islands)', 'Miskito (in Eastern Honduras)']",[''],[''],['']
+Hong Kong China,"['Cantonese ', 'English']",[''],[''],[''],['Traditional Chinese']
+Hungary,['Hungarian'],[''],"['Croatian', 'German', 'Romanian', 'Serbian', 'Slovak', 'Slovene']",[''],['']
+Iceland,"['Icelandic', 'Icelandic Sign Language']",[''],[''],[''],['']
+India,"['Hindi', 'English']",['(32 languages)'],[''],[''],['']
+Indonesia,['Indonesian'],[''],[''],[''],"['Indonesian sign languages', 'Javanese', 'Sundanese', 'Madurese', 'Batak languages', 'Chinese', 'Minang', 'Aceh', 'Balinese', 'Buginese', 'Banjarese', 'English', '(700+ other languages)']"
+Iran,['Persian'],"['Persian 53%', 'Azerbaijani and other Turkic dialects 18%', 'Kurdish 10%', 'Gilaki and Mazandarani 7%', 'Luri 6%', 'Arabic 2%', 'Balochi 2%', 'Other languages comprise 1% and include Tati Talysh Georgian Armenian Circassian Assyrian etc.']",[''],['Persian'],['Persian']
+Iraq,['Arabic'],"['Armenian recognized', 'Assyrian Neo-Aramaic (in Assyrian areas)', 'Iraqi Turkmen (in Turkmen areas)', 'Kurdish']",[''],[''],['']
+Ireland,"['English', 'Irish']",[''],[''],['Irish'],['']
+Israel,['Hebrew'],['Arabic'],[''],[''],"['Russian', 'English']"
+Italy,['Italian'],"['French (in Aosta Valley)', 'German (in South Tyrol)', 'Ladin (in South Tyrol)', 'Slovene (in Province of Trieste Province of Gorizia)', 'Albanian/Arbereshe (in Sicily and Calabria)']","['Ladin', 'Slovene']",[''],['']
+Ivory Coast,['French'],[''],[''],[''],['']
+Jamaica,['English'],[''],[''],['Jamaican Patois'],['']
+Japan,['Japanese'],[''],[''],['Japanese'],['']
+Jordan,['Arabic'],[''],[''],[''],['']
+Kazakhstan,['Kazakh Russian'],[''],[''],['Kazakh'],['']
+Kenya,['English'],[''],[''],['Swahili'],['']
+Kiribati,['English'],[''],[''],['Kiribati'],['']
+North Korea,['Korean'],[''],[''],[''],['']
+South Korea,"['Korean', 'Korean Sign Language']",[''],[''],[''],['']
+Kosovo,"['Albanian', 'Serbian']",['Turkish'],[''],"['Albanian (nationwide)', 'Serbian (Northern Kosovo)']",['']
+Kuwait,['Standard Arabic'],[''],[''],"['Kuwaiti Sign Language', 'Kuwaiti Arabic', 'Kuwaiti Persian']",['']
+Kyrgyzstan,['Kyrgyz Russian'],[''],[''],['Kyrgyz'],['']
+Laos,['Lao'],[''],[''],[''],['']
+Latvia,['Latvian'],[''],[''],[''],['']
 Lebanon,['Arabic'],['Arabic'],['Armenian'],"['Arabic', 'English', 'French']","['Arabic', 'English', 'French']"
-Lesotho,"['Sotho', 'English']",None,None,['Sotho'],None
-Liberia,['English'],None,None,None,None
-Libya,['Arabic'],None,None,None,None
-Liechtenstein,['German'],None,None,None,None
-Lithuania,['Lithuanian'],None,None,None,None
-Luxembourg,"['French', 'German', 'Luxembourgish']",None,None,['Luxembourgish'],None
-Luxembourg,"['French', 'German', 'Luxembourgish']",None,None,['Luxembourgish'],None
-"Macau, China","['Cantonese (de facto)', 'Portuguese']",None,None,None,['Chinese']
-Madagascar,"['French', 'Malagasy']",None,None,['Malagasy'],None
-Malawi,"['English', 'Chichewa']",None,None,['Chichewa'],None
-Malaysia,['Malay'],None,None,None,None
-Maldives,['Dhivehi'],None,None,None,None
-Mali,['French'],['Tamazight (Azawad district)'],None,None,None
-Malta,"['English, Maltese']",None,None,['Maltese'],None
-Sovereign Military Order of Malta,['Italian'],None,None,None,None
-Marshall Islands,['English'],None,None,['Marshallese'],None
-Mauritania,['Arabic'],None,None,"['Arabic', 'Fula', 'Soninke', 'Wolof']",['French']
-Mauritius,['English'],None,None,['French'],None
-Mexico,['Spanish (de facto)'],None,None,None,None
-Federated States of Micronesia,['Woleaian'],"['English (statewide except in Kosrae)', 'Chuukese (in Chuuk)', 'Kosraean (in Kosrae)']",None,None,None
-Moldova,['Romanian'],"['Gagauz', 'Russian', 'Ukrainian']",None,None,None
-Monaco,['French'],None,None,None,['Monégasque']
-Mongolia,['Mongolian'],None,None,None,None
-Montenegro,"['Albanian (in Ulcinj)', 'Croatian (in Tivat)', 'Serbian (in Herceg Novi)']",['Bosnian (in the north)'],None,['Montenegrin'],['Serbian']
-Morocco,"['Arabic', 'Tamazight']",None,None,None,None
-Mozambique,['Portuguese'],None,None,None,None
-Myanmar (Burma),['Burmese'],"['Chin', 'Kachin', 'Karen', 'Karenni', 'Mon', 'Rakhine', 'Shan']",None,None,None
-Myanmar (Burma),['Burmese'],"['Chin', 'Kachin', 'Karen', 'Karenni', 'Mon', 'Rakhine', 'Shan']",None,None,None
-Namibia[62],['English'],"['German', 'Oshiwambo']",None,['Afrikaans'],None
-Nauru,"['English', 'Nauruan']",None,None,None,None
-Nepal,['Nepali'],None,None,['all languages spoken as the mother tongue in Nepal'],None
-Netherlands,['Dutch (de facto)'],"['West Frisian (in Friesland)', 'Papiamento (in Aruba, Curaçao, Bonaire)', 'English (in Sint Maarten, Sint Eustatius, Saba)', 'Limburgish', 'Low Saxon']",None,None,None
-New Zealand,"['English (de facto)', 'Maori', 'New Zealand Sign Language']",None,None,None,None
-Nicaragua,['Spanish'],None,None,None,None
-Niger,['French'],None,None,"['Arabic', 'Hausa', 'Fulfulde', 'Gulmancema', 'Kanuri', 'Zarma', 'Tamazight']",None
-Nigeria,['English'],None,None,"['Hausa', 'Yoruba', 'Igbo']",None
-North Macedonia,"['Macedonian', 'Albanian']",None,None,None,None
-Northern Cyprus,['Turkish'],None,None,None,None
-Norway,"['Norwegian', 'Sami']","['Northern Sami (in Kautokeino, Karasjok, Gáivuotna, Kåfjord, Nesseby, Porsanger, Tana, Tysfjord)']","['Kven', 'Scandoromani']","['Bokmål (written)', 'Nynorsk (written)', 'Sami']","['Bokmål (written)', 'Nynorsk (written)', 'Sami', 'Romani']"
-Norway,"['Norwegian', 'Sami']","['Northern Sami (in Kautokeino, Karasjok, Gáivuotna, Kåfjord, Nesseby, Porsanger, Tana, Tysfjord)']","['Kven', 'Scandoromani']","['Bokmål (written)', 'Nynorsk (written)', 'Sami']","['Bokmål (written)', 'Nynorsk (written)', 'Sami', 'Romani']"
-Oman,['Arabic'],None,None,None,None
-Oman,['Arabic'],None,None,None,None
-Pakistan,"['English', 'Urdu']",None,None,['Urdu'],"['Punjabi', 'Balochi', 'Sindhi', 'Pashto']"
-Palau,"['English', 'Palauan']","['Sonsorolese (in Sonsorol)', 'Tobian (in Hatohobei)', 'Japanese (in Angaur)']",None,None,None
-Palestine,['Arabic (de facto)'],None,None,None,"['English', 'Hebrew']"
-Panama,['Spanish'],None,None,None,None
-Papua New Guinea,"['English', 'Hiri Motu', 'PNG Sign Language', 'Tok Pisin']",None,None,None,None
-Paraguay,"['Spanish', 'Guaraní']",None,None,None,None
-Peru,"['Spanish', 'Aymara', 'Quechua']",None,None,None,None
-Philippines,"['English', 'Filipino', 'Filipino Sign Language']","['Aklanon (in the Visayas)', 'Bikol (in Luzon)', 'Cebuano (in the Visayas and Mindanao)', 'Ibanag (in Luzon)', 'Ilocano (in Luzon, official in La Union))', 'Ivatan (in Luzon)', 'Kapampangan (in Luzon)', 'Kanaray-a (in the Visayas)', 'Maranao (in Mindanao)', 'Maginanao (in Mindanao)', 'Pangasinan (in Luzon)', 'Sambal (in Luzon)', 'Tagalog (in Luzon)', 'Tausug (in Mindanao)', 'Waray (in the Visayas)', 'Yakan (in Mindanao)']",['(+ over 100 more minority languages)'],['Filipino'],"['Spanish', 'Arabic']"
-Poland,['Polish'],['Kashubian (Pomeranian Voivodeship)'],"['German (Opole Voivodeship)', 'Lithuanian (Puńsk commune)', 'Belarusian (Podlaskie Voivodseship)', 'Czech', 'Hebrew', 'Yiddish', 'Lemko', 'Karaim', 'Armenian', 'Romani', 'Russian', 'Slovak', 'Tatar', 'Ukrainian']",None,None
-Portugal,['Portuguese'],['Mirandese (Miranda do Douro)'],None,None,None
-Portugal,['Portuguese'],['Mirandese (Miranda do Douro)'],None,None,None
-Qatar,['Arabic'],None,None,None,None
-Qatar,['Arabic'],None,None,None,None
-Romania,['Romanian'],"['Armenian', 'German', 'Hungarian', 'Romani', 'Serbian', 'Slovak', 'Turkish', 'Ukrainian']",None,None,None
-Russia,['Russian'],['(33 languages)'],None,None,None
-Rwanda,"['English', 'French', 'Kinyarwanda', 'Swahili']",None,None,None,None
-Rwanda,"['English', 'French', 'Kinyarwanda', 'Swahili']",None,None,None,None
-Sahrawi Arab Democratic Republic,"['Tamazight', 'Arabic', 'Spanish']",None,None,None,None
-Saint Kitts and Nevis,['English'],None,None,None,None
-Saint Lucia,['English'],None,None,None,None
-Saint Vincent and the Grenadines,['English'],None,None,None,None
-Samoa,['English'],None,None,['Samoan'],None
-San Marino,['Italian'],None,None,None,None
-São Tomé and Príncipe,['Portuguese'],None,None,None,None
-Saudi Arabia,['Arabic'],None,None,None,None
-Senegal,['French'],None,None,"['Jola-Fogny', 'Mandinka', 'Pulaar', 'Serer', 'Soninke', 'Wolof']",None
-Serbia,['Serbian'],None,['(15 languages)'],None,None
-Seychelles,"['English', 'French', 'Seychellois Creole']",None,None,None,None
-Sierra Leone,['English'],None,None,['Krio'],None
-Singapore,"['English', 'Malay', 'Mandarin', 'Tamil']",None,None,['Malay'],None
-Slovakia,['Slovak'],None,"['Bulgarian', 'Czech', 'German', 'Hungarian', 'Polish', 'Romani', 'Rusyn', 'Serbian', 'Ukrainian']",None,None
-Slovenia,['Slovene'],None,"['Hungarian (Dobrovnik, Hodoš, Lendava)', 'Italian (Izola, Koper, Piran)', 'Croatian (Metlika, Brežice)']",None,None
-Solomon Islands,['English'],None,None,None,None
-Somalia,['Arabic'],None,None,['Somali'],None
-Somaliland,"['Arabic', 'English', 'Somali']",None,None,None,None
-South Africa,"['Afrikaans', 'English', 'Southern Ndebele', 'Sotho', 'Northern Sotho', 'Swazi', 'Tsonga', 'Tswana', 'Venda', 'Xhosa', 'Zulu']",None,None,None,None
-South Ossetia,"['Ossetian', 'Russian']",['Georgian'],['Georgian'],None,None
-South Sudan,['English'],None,None,"['Arabic', 'Bari', 'Dinka', 'Luo', 'Murle', 'Nuer', 'Zande', '(60 other languages)']",None
-Spain,['Spanish'],"['Catalan (Balearic Islands, Catalonia, Valencia)', 'Galician (Galicia)', 'Occitan (Catalonia)', 'Basque (Basque Country, Navarra)']","['Astur-Leonese (Asturias)', 'Aragonese (Aragon)', 'Fala (Province of Cáceres)', 'French', 'Portuguese']",None,None
-Sri Lanka,"['Sinhala', 'Tamil']",None,None,None,None
-Sudan,"['Arabic', 'English']",None,None,None,None
-Suriname,['Dutch'],None,None,['Sranan Tongo'],None
-Sweden,['Swedish'],None,"['Finnish (Gällivare, Haparanda, Kiruna, Pajala, Övertorneå', 'Meänkieli (Gällivare, Haparanda, Kiruna, Pajala, Övertorneå)', 'Sami (Arjeplog, Gällivare, Jokkmokk, Kiruna)']",None,"['Romani', 'Yiddish']"
-Switzerland,"['French (Bern, Fribourg, Geneva, Jura, Neuchâtel, Valais, Vaud)', 'German (Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Bern, Fribourg, Glarus, Graubünden, Lucerne, Nidwalden, Obwalden, Saint Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Uri, Valais, Zug, Zürich)', 'Italian (Ticino, Graubünden)', 'Romansh (Graubünden)']",None,None,None,None
-Syria,['Arabic'],['Kurdish'],None,None,None
-Syria,['Arabic'],['Kurdish'],None,None,None
-Taiwan,['Mandarin (de facto)'],None,None,"['Formosan languages', 'Hakka', 'Mandarin', 'Taiwan Sign Language', 'Taiwanese Hokkien']",['Mandarin']
-Tajikistan,['Tajik'],None,None,['Tajik'],['Russian']
-Tanzania,['English'],None,None,['Swahili'],None
-Thailand,['Thai'],None,None,None,None
-Togo,['French'],None,None,None,None
-Tonga,['English'],None,None,['Tongan'],None
-Transnistria,"['Moldovan', 'Russian', 'Ukrainian']",None,None,None,None
-Trinidad and Tobago,['English'],None,None,None,None
-Tunisia,['Arabic'],None,None,['Arabic'],None
-Turkey,['Turkish'],None,['Kurdish'],None,None
-Turkmenistan,['Turkmen'],None,None,['Turkmen'],['Russian']
-Tuvalu,['English (de facto)'],None,None,['Tuvaluan (de facto)'],None
-Tuvalu,['English (de facto)'],None,None,['Tuvaluan (de facto)'],None
-Uganda,"['English', 'Swahili']",None,None,None,None
-Ukraine,['Ukrainian'],None,None,None,None
-United Arab Emirates,['Arabic'],None,None,None,None
-United Kingdom and Crown dependencies etc,['English (de facto)'],"['Cornish (in Cornwall)', 'Irish and Ulster-Scots (in Northern Ireland)', 'Scots and Scottish Gaelic (in Scotland)', 'Welsh (in Wales)', 'Pitcairnese (in Pitcairn Islands)', 'Guernésiais and French (in Guernsey)', 'Jèrriais and French (in Jersey)', 'Manx (in Isle of Man)']",None,None,None
-United States,['English (de facto)'],['(28 languages)'],None,None,None
-Uruguay,['Spanish (de facto)'],None,None,None,None
-Uzbekistan,['Uzbek'],None,"['Uzbek', 'Karakalpak and Uzbek in Karakalpakstan']",None,None
-Uzbekistan,['Uzbek'],None,"['Uzbek', 'Karakalpak and Uzbek in Karakalpakstan']",None,None
-Vanuatu,"['English', 'French']",None,None,['Bislama'],None
-Vatican City,['Italian'],None,None,None,None
-Venezuela,"['Spanish', 'Venezuelan Sign Language']",None,None,None,None
-Vietnam,None,None,None,['Vietnamese'],None
-Vietnam,None,None,None,['Vietnamese'],None
-Yemen,['Arabic'],None,None,None,None
-Yemen,['Arabic'],None,None,None,None
-Zambia,['English'],None,None,None,None
-Zimbabwe,"['Chewa', 'Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Nambya', 'Ndau', 'Ndebele', 'Shangani', 'Shona', 'Sign language', 'Sotho', 'Tonga', 'Tswana', 'Venda', 'Xhosa']",None,None,None,None
+Lesotho,"['Sotho', 'English']",[''],[''],['Sotho'],['']
+Liberia,['English'],[''],[''],[''],['']
+Libya,['Arabic'],[''],[''],[''],['']
+Liechtenstein,['German'],[''],[''],[''],['']
+Lithuania,['Lithuanian'],[''],[''],[''],['']
+Luxembourg,"['French', 'German', 'Luxembourgish']",[''],[''],['Luxembourgish'],['']
+Macau China,"['Cantonese ', 'Portuguese']",[''],[''],[''],['Chinese']
+Madagascar,"['French', 'Malagasy']",[''],[''],['Malagasy'],['']
+Malawi,"['English', 'Chichewa']",[''],[''],['Chichewa'],['']
+Malaysia,"['Malay', 'English']",['Regional/State dialects'],[''],['Malaysian'],"['Mandarin Chinese', 'Cantonese', 'Tamil']"
+Maldives,['Dhivehi'],[''],[''],[''],['']
+Mali,['French'],['Tamazight (Azawad district)'],[''],[''],['']
+Malta,['English Maltese'],[''],[''],['Maltese'],['']
+Sovereign Military Order of Malta,['Italian'],[''],[''],[''],['']
+Marshall Islands,['English'],[''],[''],['Marshallese'],['']
+Mauritania,['Arabic'],[''],[''],"['Arabic', 'Fula', 'Soninke', 'Wolof']",['French']
+Mauritius,['English'],[''],[''],['French'],['']
+Mexico,['Spanish'],[''],[''],[''],['']
+Federated States of Micronesia,['Woleaian'],"['English (statewide except in Kosrae)', 'Chuukese (in Chuuk)', 'Kosraean (in Kosrae)']",[''],[''],['']
+Moldova,['Romanian'],"['Gagauz', 'Russian', 'Ukrainian']",[''],[''],['']
+Monaco,['French'],[''],[''],[''],['Monégasque']
+Mongolia,['Mongolian'],[''],[''],[''],['']
+Montenegro,"['Albanian ', 'Croatian ', 'Serbian']",['Bosnian (in the north)'],[''],['Montenegrin'],['Serbian']
+Morocco,"['Arabic', 'Tamazight']",[''],[''],[''],['']
+Mozambique,['Portuguese'],[''],[''],[''],['']
+Myanmar (Burma),['Burmese'],"['Chin', 'Kachin', 'Karen', 'Karenni', 'Mon', 'Rakhine', 'Shan']",[''],[''],['']
+Namibia[62],['English'],"['German', 'Oshiwambo']",[''],['Afrikaans'],['']
+Nauru,"['English', 'Nauruan']",[''],[''],[''],['']
+Nepal,['Nepali'],[''],[''],['all languages spoken as the mother tongue in Nepal'],['']
+Netherlands,['Dutch'],"['West Frisian (in Friesland)', 'Papiamento (in Aruba Curaçao Bonaire)', 'English (in Sint Maarten Sint Eustatius Saba)', 'Limburgish', 'Low Saxon']",[''],[''],['']
+New Zealand,"['English ', 'Maori', 'New Zealand Sign Language']",[''],[''],[''],['']
+Nicaragua,['Spanish'],[''],[''],[''],['']
+Niger,['French'],[''],[''],"['Arabic', 'Hausa', 'Fulfulde', 'Gulmancema', 'Kanuri', 'Zarma', 'Tamazight']",['']
+Nigeria,['English'],[''],[''],"['Hausa', 'Yoruba', 'Igbo']",['']
+North Macedonia,"['Macedonian', 'Albanian']",[''],[''],[''],['']
+Northern Cyprus,['Turkish'],[''],[''],[''],['']
+Norway,"['Norwegian', 'Sami']",['Northern Sami (in Kautokeino Karasjok Gáivuotna Kåfjord Nesseby Porsanger Tana Tysfjord)'],"['Kven', 'Scandoromani']","['Bokmål ', 'Nynorsk ', 'Sami']","['Bokmål ', 'Nynorsk ', 'Sami', 'Romani']"
+Oman,['Arabic'],[''],[''],[''],['']
+Pakistan,"['English', 'Urdu']",[''],[''],['Urdu'],"['Punjabi', 'Balochi', 'Sindhi', 'Pashto']"
+Palau,"['English', 'Palauan']","['Sonsorolese (in Sonsorol)', 'Tobian (in Hatohobei)', 'Japanese (in Angaur)']",[''],[''],['']
+Palestine,['Arabic'],[''],[''],[''],"['English', 'Hebrew']"
+Panama,['Spanish'],[''],[''],[''],['']
+Papua New Guinea,"['English', 'Hiri Motu', 'PNG Sign Language', 'Tok Pisin']",[''],[''],[''],['']
+Paraguay,"['Spanish', 'Guaraní']",[''],[''],[''],['']
+Peru,"['Spanish', 'Aymara', 'Quechua']",[''],[''],[''],['']
+Philippines,"['English', 'Filipino', 'Filipino Sign Language']","['Aklanon (in the Visayas)', 'Bikol (in Luzon)', 'Cebuano (in the Visayas and Mindanao)', 'Ibanag (in Luzon)', 'Ilocano (in Luzon official in La Union))', 'Ivatan (in Luzon)', 'Kapampangan (in Luzon)', 'Kanaray-a (in the Visayas)', 'Maranao (in Mindanao)', 'Maginanao (in Mindanao)', 'Pangasinan (in Luzon)', 'Sambal (in Luzon)', 'Tagalog (in Luzon)', 'Tausug (in Mindanao)', 'Waray (in the Visayas)', 'Yakan (in Mindanao)']",['(+ over 100 more minority languages)'],['Filipino'],"['Spanish', 'Arabic']"
+Poland,['Polish'],['Kashubian (Pomeranian Voivodeship)'],"['German (Opole Voivodeship)', 'Lithuanian (Puńsk commune)', 'Belarusian (Podlaskie Voivodseship)', 'Czech', 'Hebrew', 'Yiddish', 'Lemko', 'Karaim', 'Armenian', 'Romani', 'Russian', 'Slovak', 'Tatar', 'Ukrainian']",[''],['']
+Portugal,['Portuguese'],['Mirandese (Miranda do Douro)'],[''],[''],['']
+Qatar,['Arabic'],[''],[''],[''],['']
+Romania,['Romanian'],"['Armenian', 'German', 'Hungarian', 'Romani', 'Serbian', 'Slovak', 'Turkish', 'Ukrainian']",[''],[''],['']
+Russia,['Russian'],['(33 languages)'],[''],[''],['']
+Rwanda,"['English', 'French', 'Kinyarwanda', 'Swahili']",[''],[''],[''],['']
+Sahrawi Arab Democratic Republic,"['Tamazight', 'Arabic', 'Spanish']",[''],[''],[''],['']
+Saint Kitts and Nevis,['English'],[''],[''],[''],['']
+Saint Lucia,['English'],[''],[''],[''],['']
+Saint Vincent and the Grenadines,['English'],[''],[''],[''],['']
+Samoa,['English'],[''],[''],['Samoan'],['']
+San Marino,['Italian'],[''],[''],[''],['']
+São Tomé and Príncipe,['Portuguese'],[''],[''],[''],['']
+Saudi Arabia,['Arabic'],[''],[''],[''],['']
+Senegal,['French'],[''],[''],"['Jola-Fogny', 'Mandinka', 'Pulaar', 'Serer', 'Soninke', 'Wolof']",['']
+Serbia,['Serbian'],[''],['(15 languages)'],[''],['']
+Seychelles,"['English', 'French', 'Seychellois Creole']",[''],[''],[''],['']
+Sierra Leone,['English'],[''],[''],['Krio'],['']
+Singapore,"['English', 'Malay', 'Mandarin', 'Tamil']",[''],[''],['Malay'],['']
+Slovakia,['Slovak'],[''],"['Bulgarian', 'Czech', 'German', 'Hungarian', 'Polish', 'Romani', 'Rusyn', 'Serbian', 'Ukrainian']",[''],['']
+Slovenia,['Slovene'],[''],"['Hungarian (Dobrovnik Hodoš Lendava)', 'Italian (Izola Koper Piran)', 'Croatian (Metlika Brežice)']",[''],['']
+Solomon Islands,['English'],[''],[''],[''],['']
+Somalia,['Arabic'],[''],[''],['Somali'],['']
+Somaliland,"['Arabic', 'English', 'Somali']",[''],[''],[''],['']
+South Africa,"['Afrikaans', 'English', 'Southern Ndebele', 'Sotho', 'Northern Sotho', 'Swazi', 'Tsonga', 'Tswana', 'Venda', 'Xhosa', 'Zulu']",[''],[''],[''],['']
+South Ossetia,"['Ossetian', 'Russian']",['Georgian'],['Georgian'],[''],['']
+South Sudan,['English'],[''],[''],"['Arabic', 'Bari', 'Dinka', 'Luo', 'Murle', 'Nuer', 'Zande', '(60 other languages)']",['']
+Spain,['Spanish'],"['Catalan (Balearic Islands Catalonia Valencia)', 'Galician (Galicia)', 'Occitan (Catalonia)', 'Basque (Basque Country Navarra)']","['Astur-Leonese (Asturias)', 'Aragonese (Aragon)', 'Fala (Province of Cáceres)', 'French', 'Portuguese']",[''],['']
+Sri Lanka,"['Sinhala', 'Tamil']",[''],[''],[''],['']
+Sudan,"['Arabic', 'English']",[''],[''],[''],['']
+Suriname,['Dutch'],[''],[''],['Sranan Tongo'],['']
+Sweden,['Swedish'],[''],"['Finnish (Gällivare Haparanda Kiruna Pajala Övertorneå', 'Meänkieli (Gällivare Haparanda Kiruna Pajala Övertorneå)', 'Sami (Arjeplog Gällivare Jokkmokk Kiruna)']",[''],"['Romani', 'Yiddish']"
+Switzerland,"['French', 'German', 'Italian']",[''],[''],[''],['']
+Syria,['Arabic'],['Kurdish'],[''],[''],['']
+Taiwan,['Mandarin'],[''],[''],"['Formosan languages', 'Hakka', 'Mandarin', 'Taiwan Sign Language', 'Taiwanese Hokkien']",['Mandarin']
+Tajikistan,['Tajik'],[''],[''],['Tajik'],['Russian']
+Tanzania,['English'],[''],[''],['Swahili'],['']
+Thailand,['Thai'],[''],[''],[''],['']
+Togo,['French'],[''],[''],[''],['']
+Tonga,['English'],[''],[''],['Tongan'],['']
+Transnistria,"['Moldovan', 'Russian', 'Ukrainian']",[''],[''],[''],['']
+Trinidad and Tobago,['English'],[''],[''],[''],['']
+Tunisia,['Arabic'],[''],[''],['Arabic'],['']
+Turkey,['Turkish'],[''],['Kurdish'],[''],['']
+Turkmenistan,['Turkmen'],[''],[''],['Turkmen'],['Russian']
+Tuvalu,['English'],[''],[''],['Tuvaluan'],['']
+Uganda,"['English', 'Swahili']",[''],[''],[''],['']
+Ukraine,['Ukrainian'],[''],[''],[''],['']
+United Arab Emirates,['Arabic'],[''],[''],[''],['']
+United Kingdom and Crown dependencies etc,['English'],"['Cornish (in Cornwall)', 'Irish and Ulster-Scots (in Northern Ireland)', 'Scots and Scottish Gaelic (in Scotland)', 'Welsh (in Wales)', 'Pitcairnese (in Pitcairn Islands)', 'Guernésiais and French (in Guernsey)', 'Jèrriais and French (in Jersey)', 'Manx (in Isle of Man)']",[''],[''],['']
+United States,['English'],['(28 languages)'],[''],[''],['']
+Uruguay,['Spanish'],[''],[''],[''],['']
+Uzbekistan,['Uzbek'],[''],"['Uzbek', 'Karakalpak and Uzbek in Karakalpakstan']",[''],['']
+Vanuatu,"['English', 'French']",[''],[''],['Bislama'],['']
+Vatican City,['Italian'],[''],[''],[''],['']
+Venezuela,"['Spanish', 'Venezuelan Sign Language']",[''],[''],[''],['']
+Vietnam,[''],[''],[''],['Vietnamese'],['']
+Yemen,['Arabic'],[''],[''],[''],['']
+Zambia,['English'],[''],[''],[''],['']
+Zimbabwe,"['Chewa', 'Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Nambya', 'Ndau', 'Ndebele', 'Shangani', 'Shona', 'Sign language', 'Sotho', 'Tonga', 'Tswana', 'Venda', 'Xhosa']",[''],[''],[''],['']
