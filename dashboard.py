@@ -44,11 +44,8 @@ languages_list = [{'label': 'English', 'value': 'English'},
 	        	{'label': 'Dutch', 'value': 'Dutch'},
 	        	{'label': 'Dzongkha', 'value': 'Dzongkha'},
 	        	{'label': 'Bosnian', 'value': 'Bosnian'},
-	        	{'label': 'Croatian', 'value': 'Croatian'},
 	        	{'label': 'Serbian', 'value': 'Serbian'},
-	        	{'label': 'English', 'value': 'English'},
 	        	{'label': 'Tswana', 'value': 'Tswana'},
-	        	{'label': 'Malay', 'value': 'Malay'},
 	        	{'label': 'Bulgarian', 'value': 'Bulgarian'},
 	        	{'label': 'Kirundi', 'value': 'Kirundi'},
 	        	{'label': 'Swahili', 'value': 'Swahili'},
@@ -98,9 +95,7 @@ languages_list = [{'label': 'English', 'value': 'English'},
 	        	{'label': 'Dhivehi', 'value': 'Dhivehi'},
 	        	{'label': 'Maltese', 'value': 'Maltese'},
 	        	{'label': 'Woleaian', 'value': 'Woleaian'},
-	        	{'label': 'Romanian', 'value': 'Romanian'},
 	        	{'label': 'Mongolian', 'value': 'Mongolian'},
-	        	{'label': 'Tamazight', 'value': 'Tamazight'},
 	        	{'label': 'Burmese', 'value': 'Burmese'},
 	        	{'label': 'Nauruan', 'value': 'Nauruan'},
 	        	{'label': 'Nepali', 'value': 'Nepali'},
@@ -118,7 +113,6 @@ languages_list = [{'label': 'English', 'value': 'English'},
 	        	{'label': 'Polish', 'value': 'Polish'},
 	        	{'label': 'Romanian', 'value': 'Romanian'},
 	        	{'label': 'Kinyarwanda', 'value': 'Kinyarwanda'},
-	        	{'label': 'Tamazight', 'value': 'Tamazight'},
 	        	{'label': 'Tamil', 'value': 'Tamil'},
 	        	{'label': 'Slovene', 'value': 'Slovene'},
 	        	{'label': 'Afrikaans', 'value': 'Afrikaans'},
@@ -148,7 +142,8 @@ app.layout = html.Div([
 		dcc.Dropdown(id='selected_languages',
 			options = languages_list,
 			multi = True,
-			value = ""
+			value = "",
+			placeholder="Search for a Language"
 		)
 	]),
 
@@ -169,15 +164,16 @@ app.layout = html.Div([
 
 def update_map(languages):
 	# languages is a list of the languages selected:
-	new_df = pd.DataFrame()
+	new_df = pd.DataFrame(columns=df.columns)
 	new_df = new_df.fillna(0)
 	for lang in languages:
 		df1 = df[df['Official language'].str.contains(lang)]
-		df2 = df[df['Widely spoken'].str.contains(lang)]
-		result = df1.append(df2)
-		new_df = new_df.append(result)
+	df2 = df[df['Widely spoken'].str.contains(lang)]
+	result = df1.append(df2)
+	new_df = new_df.append(result)
+
 	fig = px.choropleth_mapbox(new_df,geojson=geojson_countries, featureidkey='properties.ADMIN', locations=new_df.Country,
-		height=800, width=1200, mapbox_style='light', zoom=1, opacity=.5, custom_data=['Official language', 'Widely spoken'])
+		height=800, width=1200, mapbox_style='light', zoom=1, opacity=.5)
 	return fig
 
 #fig.show()
