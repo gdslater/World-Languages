@@ -16,8 +16,7 @@ with urlopen('https://raw.githubusercontent.com/datasets/geo-countries/master/da
 app = dash.Dash(__name__)
 server = app.server
 px.set_mapbox_access_token(open(".mapbox_token.txt").read())
-
-df['Value'] = 1
+df['Value'] = 'Not Spoken'
 
 languages_list = [{'label': 'English', 'value': 'English'},
 	        	{'label': 'French', 'value': 'French'},
@@ -164,16 +163,17 @@ app.layout = html.Div([
 
 def update_map(languages):
 	# languages is a list of the languages selected:
-	new_df = pd.DataFrame(columns=df.columns)
-	new_df = new_df.fillna(0)
+	#new_df = pd.DataFrame(columns=df.columns)
+	#new_df = new_df.fillna(0)
+	dff = df.copy()
 	for lang in languages:
-		df1 = df[df['Official language'].str.contains(lang)]
-	df2 = df[df['Widely spoken'].str.contains(lang)]
-	result = df1.append(df2)
-	new_df = new_df.append(result)
-
-	fig = px.choropleth_mapbox(new_df,geojson=geojson_countries, featureidkey='properties.ADMIN', locations=new_df.Country,
-		height=800, width=1200, mapbox_style='light', zoom=1, opacity=.5)
+	    for row in dff.iterrows():
+	        if lang in row[1][1] or lang in row[1][5]:
+	            row[1][6] = 'Spoken'
+	            
+	fig = px.choropleth_mapbox(dff,geojson=geojson_countries, featureidkey='properties.ADMIN', locations=dff.Country,
+		height=800, width=1200, mapbox_style='light', zoom=1, opacity=.5, color='Value',
+		color_discrete_map={'Not Spoken': 'Red', 'Spoken': 'Blue'})
 	return fig
 
 #fig.show()
